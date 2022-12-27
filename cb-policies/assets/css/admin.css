@@ -1,0 +1,34 @@
+#menu-posts-cb_testimonial .wp-menu-image {
+  background: none;
+  background-image: url(../images/icon.png);
+  background-position: 7px -132px !important;
+  background-repeat: no-repeat;
+}
+#menu-posts-cb_testimonial.wp-has-current-submenu .wp-menu-image {
+  background-position: 7px -164px !important;
+}
+
+#icon-edit.icon32.icon32-posts-cb_testimonial {
+  background: transparent url(../images/icon.png) no-repeat 0 0;
+}
+
+
+.cb-testimonial-meta-box p.help {
+	margin: 0;
+	text-align: right;
+	color: #aaa;
+
+}
+.cb-testimonial-meta-box label {
+	margin: 10px 0 0 0 ;
+	display: block;
+}
+.cb-testimonial-meta-box input {
+	margin: 2px 0;
+	padding: 5px;
+}
+
+.cb-testimonial-meta-box p.help tt {
+	padding: 0 3px;
+	border-bottom: 1px solid #ccc;
+}

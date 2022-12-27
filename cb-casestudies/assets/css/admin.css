@@ -1,0 +1,13 @@
+#menu-posts-cb_faq .wp-menu-image {
+  background: none;
+  background-image: url(../images/icon.png);
+  background-position: 7px -132px !important;
+  background-repeat: no-repeat;
+}
+#menu-posts-cb_faq.wp-has-current-submenu .wp-menu-image {
+  background-position: 7px -164px !important;
+}
+
+#icon-edit.icon32.icon32-posts-cb_faq {
+  background: transparent url(../images/icon.png) no-repeat 0 0;
+}
